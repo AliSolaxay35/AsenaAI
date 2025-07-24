@@ -1,6 +1,6 @@
 # AsenaAI 🐺
 
-**AsenaAI** Is A Compact, Smart Medical AI Project Named After The Legendary She-Wolf Of Turkic Mythology.  
+**AsenaAI** Is A Compact,Smart Medical AI Project Named After The Legendary She-Wolf Of Turkic Mythology.  
 It Aims To Provide Simple Yet Effective Machine Learning Tools For Medical Data Analysis And Prediction.
 
 ---
