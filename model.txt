@@ -1,0 +1,16 @@
+model.py Explanation:
+
+This Python Script Uses The Classic Iris Flower Dataset To Build A Simple Machine Learning Model With Scikit-Learn.
+
+Steps In The Script:
+
+1. Load The Iris Dataset, Which Contains Measurements Of Iris Flowers And Their Species Labels.
+2. Split The Data Into Training And Testing Sets(80% Train, 20% Test).
+3. Train A Decision Tree Classifier On The Training Data.
+4. Evaluate The Model's Accuracy On The Test Data And Print The Result.
+5. Predict The Class Of A New Flower Sample With Specific Feature Values.
+6. Print The Predicted Class Number And Its Corresponding Flower Species Name.
+
+This Example Demonstrates Basic Classification, Model Training, Evaluation, And Prediction Using Scikit-Learn.
+
+Thank You.
