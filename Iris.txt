@@ -1,0 +1,21 @@
+Iris.py Explanation
+
+This Python Script Trains A Simple Machine Learning Model Using The Famous Iris Flower Dataset From Scikit-Learn.
+
+Main Steps:
+
+1. Load The Iris Dataset (Includes Sepal And Petal Measurements For 3 Iris Species).
+2. Split The Dataset Into Training And Testing Sets (80% Training, 20% Testing).
+3. Use A Decision Tree Classifier To Train The Model On The Training Data.
+4. Evaluate The Model Accuracy Using The Test Set And Display The Result.
+5. Ask The User To Input Four Measurements Of A Flower:
+   - Sepal Length
+   - Sepal Width
+   - Petal Length
+   - Petal Width
+6. Predict The Species Based On The User's Input.
+7. Display The Predicted Class Number And Class Name (Setosa, Versicolor, Or Virginica).
+
+This Is A Beginner-Friendly Example To Understand Supervised Classification And User Input Integration In A Machine Learning Workflow.
+
+Thank You.
