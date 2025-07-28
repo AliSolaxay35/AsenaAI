@@ -1,0 +1,21 @@
+This Python Script Uses A Simple Decision Tree Classifier To Predict Whether A Person Has An Immune-Related Disease Based On Sample Medical Data.
+
+🔹 Dataset:
+- Loaded From A CSV File Named 'immune_data.csv'
+- Columns: Age, White Blood Cell Count, Antibody Level, Diagnosis (0 = Healthy, 1 = Sick)
+
+🔹 Workflow:
+1. Load The Dataset Using Pandas.
+2. Split The Data Into Training And Testing Sets.
+3. Train A Decision Tree Classifier (Using Scikit-Learn).
+4. Evaluate The Accuracy Of The Model.
+5. Make A Prediction On A New Sample (Example Provided In Code).
+
+📌 This Version Uses A Fixed File Path And A Hardcoded Sample. For A More Interactive Version With User Input And Logging, See "ImmuneV1.1.py".
+
+Requirements:
+- Python 3.10+
+- pandas
+- scikit-learn
+
+Thank You.  
