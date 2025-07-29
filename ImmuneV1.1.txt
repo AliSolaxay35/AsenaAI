@@ -1,0 +1,13 @@
+This Python Script Implements A Simple Immunology Disease Prediction Model Using Decision Tree Classifier.  
+
+It Loads The Dataset From A CSV File And Splits It Into Training And Testing Sets.  
+The Model Is Trained And Evaluated For Accuracy.  
+
+The Script Then Asks The User To Enter Patient Information Including Name, Age, White Blood Cell Count, And Antibody Level.  
+Based On The Input, It Predicts Whether The Patient Is Sick (1) Or Healthy (0).  
+
+All Predictions Along With Patient Information And Timestamp Are Saved To A CSV Log File Named "prediction_log.csv" For Future Reference.  
+
+Make Sure To Have The Dataset CSV File And Proper Write Permissions For Saving The Log File.
+
+Thank You.  
